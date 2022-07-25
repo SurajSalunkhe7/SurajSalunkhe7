@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **C, C++, .Net**
+- 💬 Ask me about **C, C++,**
 
 - 📫 How to reach me **salunkhesuraj200@gmail.com**
 
