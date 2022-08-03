@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Salunkhe </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajsalunkhe7&label=Profile%20views&color=0e75b6&style=flat" alt="surajsalunkhe7" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=surajsalunkhe7&label=Profile%20views&color=0e75b6&style=flat" alt="surajsalunkhe7" /> </p>
 
 - 🔭 I’m currently working on **College Projects.**
 
