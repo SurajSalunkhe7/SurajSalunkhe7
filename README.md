@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **College Projects.**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C# **
 
 - 💬 Ask me about **C, C++**
 
