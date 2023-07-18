@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajsalunkhe7&label=Profile%20views&color=0e75b6&style=flat" alt="surajsalunkhe7" /></p>
 
-- 🔭 I’m currently working on **College Projects.**
+- 🔭 I’m currently working on **Web Projects.**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **C, C++**
+- 💬 Ask me about **Frontend, C, C++**
 
 - 📫 How to reach me **salunkhesuraj200@gmail.com**
 
