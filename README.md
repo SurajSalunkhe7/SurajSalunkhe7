@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajsalunkhe7&label=Profile%20views&color=0e75b6&style=flat" alt="surajsalunkhe7" /></p>
 
-- 🔭 I’m currently working on **Web Projects.**
+- 🔭 I’m currently working on ** Web Projects.**
 
 - 🌱 I’m currently learning **Angular**
 
